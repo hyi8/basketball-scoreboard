@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    text-align: center;
+    background:  #1B244A
+}
+#home-score {
+    background: black;
+    font-size: 90px;
+    color: red;
+    width: 120px;
+    margin: 30px;
+    margin-top: -20px
+    
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    border-color: white;
+}
+
+#guest-score {
+    background: black;
+    font-size: 90px;
+    color: red;
+    width: 120px;
+    margin: 30px;
+    margin-top: -20px
+}
+.title-text {
+    color:white;
+    font-size: 30px;
+    margin-top: 20px
+}
+
+.btn-text {
+    color:white;
+}
